@@ -9,6 +9,10 @@ The goal of this project was to program one of Pololu's Zumo robots to solve an 
 ## The Code
 See [Milestone 7](https://github.com/kdpatters/robot_competition_2020/tree/master/milestone_7) cumulative (and best documented!) code here.
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=eu42vbh9r0s
+" target="_blank"><img src="http://img.youtube.com/vi/eu42vbh9r0s/0.jpg" 
+alt="Milestone 7 attempt" width="240" height="180" border="10" /></a>
+
 ### Original milestones
 1. Create your own code that moves the Zumo at least 4 feet.
 2. Get the Zumo to follow a line on the floor for at least 4 feet.
