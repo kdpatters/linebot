@@ -6,6 +6,9 @@ I initially created this repository as part of Vassar College's COGS-220-51-2020
 ## The Project
 The goal of this project was to program one of Pololu's Zumo robots to solve an arbitrary maze constructed from electrical tape lines on the floor independently.  The robot was allowed to have a first untimed run to map out the maze and required to solve the maze on its second run (using its stored knowledge) in as little time as possible.  To break up the challenge, the class had 7 milestones.
 
+## The Code
+See [Milestone 7](https://github.com/kdpatters/robot_competition_2020/tree/master/milestone_7) cumulative (and best documented!) code here.
+
 ### Original milestones
 1. Create your own code that moves the Zumo at least 4 feet.
 2. Get the Zumo to follow a line on the floor for at least 4 feet.
