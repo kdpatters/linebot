@@ -1,4 +1,4 @@
-# robot_competition_2020
+# Robot Competition 2020
 
 ## Cognitive Science & Autonomous Robotics
 I initially created this repository as part of Vassar College's COGS-220-51-2020B: Autonomous Robotics taught by Assistant Professor Josh de Leeuw in Fall of 2020.
